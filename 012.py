@@ -23,5 +23,4 @@ def find_triangle(x):
             return triangle_by_i(i)
         i += 1
 
-
 print(find_triangle(500))
